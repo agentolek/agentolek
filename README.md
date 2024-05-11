@@ -6,6 +6,6 @@ The programming languages I've worked in in the past include:
 - C++
 - C#
 - RISC-V and x86 Assembly languages
-Below you can see some of the bigger projects that I have created.
 
+Below you can see some of the bigger projects that I have created.
 Enjoy!
