@@ -1,7 +1,7 @@
 ### Welcome to my Github!
 
 I'm Aleksander Nowak, and currently I'm studying Computer Science at the Warsaw University of Technology.
-The programming languages I've worked in in the past include:
+The programming languages I know are:
 - Python (including libraries like PyTorch, numpy)
 - C++
 - C#
